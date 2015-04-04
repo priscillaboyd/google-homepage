@@ -1,2 +1,6 @@
 # google-homepage
-Sample, part of The Odin Project
+Google Homepage
+Sample exercise, part of The Odin Project
+
+The Odin Project
+http://www.theodinproject.com
